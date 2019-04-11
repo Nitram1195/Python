@@ -19,6 +19,7 @@ class Rectangle():
     def get_area(self):
         return self._a*self._b
 
+
     def set_size(self, a, b):
         self._a = a
         self._b = b        
