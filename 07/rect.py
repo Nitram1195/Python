@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Tue Apr  9 14:10:20 2019
-
-@author: martin
+Cviceni 7
 """
 
 
@@ -51,7 +48,9 @@ class Matrix():
 
 
 class Logger():
-    
+    """
+    Logger
+    """
     
     def __init__(self, name):
         self._name = name
